@@ -7,3 +7,9 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/fuzzyfinder_textmate"]
+	path = bundle/fuzzyfinder_textmate
+	url = git://github.com/jamis/fuzzyfinder_textmate.git
+[submodule "bundle/fuzzy_file_finder"]
+	path = bundle/fuzzy_file_finder
+	url = https://github.com/jamis/fuzzy_file_finder.git
